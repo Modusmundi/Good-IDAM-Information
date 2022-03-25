@@ -14,6 +14,7 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 * Certificate Management / Public Key Infrastructures
 * Identity Governance and Administration (IGA)
 * Privileged Access Management (PAM)
+* Auditability, Compliance, and Event Management
 
 
 ## General Security
@@ -32,10 +33,17 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 
 ## Federation
 
+### OAuth 2 / OpenID Connect (OIDC)
+[https://youtu.be/996OiexHze0](https://youtu.be/996OiexHze0)
+
 ## Authentication Processes
+### Passwords
+[https://www.baekdal.com/trends/password-security-usability](https://www.baekdal.com/trends/password-security-usability)
 
 ## PKI
 
 ## IGA
 
 ## PAM
+
+## Auditability, Compliance, and Event Management
