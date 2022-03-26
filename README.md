@@ -11,7 +11,7 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 * Federation
 * Authentication Processes
 * Single Sign-On (SSO)
-	* Certificate Management / Public Key Infrastructures
+* Certificate Management / Public Key Infrastructures
 * Identity Governance and Administration (IGA)
 * Privileged Access Management (PAM)
 * Auditability, Compliance, and Event Management
@@ -19,7 +19,9 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 
 ## General Security
 
-http://www.blueteamhandbook.com/ - The Blue Team Handbook, a condensed and valuable book on general blue-team security concerns.
+http://www.blueteamhandbook.com/ - The Blue Team Handbook, a condensed and valuable book on blue-team security concerns.
+
+https://www.oreilly.com/library/view/defensive-security-handbook/9781491960370/ - Defensive Security Handbook, a great high-level book about security from a top-down perspective.
 
 
 
