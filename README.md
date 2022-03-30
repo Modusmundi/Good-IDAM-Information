@@ -1,5 +1,5 @@
 # Good-IDAM-Information
-[//]: # Greets: jr-pe, Redlegion, topperge, and everyone who gave contributions when I asked them on various platforms.  
+[//]: # (Greets: jr-pe, Redlegion, topperge, and everyone who gave contributions when I asked them on various platforms.)
 
 
 The purpose of this document is to capture articles, courses, videos, books, or other forms of media that offer foundational information on Identity and Access Management topics.  These topics include, but are not limited to (As I'm certain I've missed a dozen subtopics):
