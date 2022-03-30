@@ -29,6 +29,7 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 **Link**: A direct URL to the item.  
 **Thoughts**: Notes about the item.  
 
+<br>
 
 ## General Tools
 
