@@ -1,4 +1,6 @@
 # Good-IDAM-Information
+[//]: # Greets: jr-pe, Redlegion, topperge, and everyone who gave contributions when I asked them on various platforms.  
+
 
 The purpose of this document is to capture articles, courses, videos, books, or other forms of media that offer foundational information on Identity and Access Management topics.  These topics include, but are not limited to (As I'm certain I've missed a dozen subtopics):
 
@@ -19,7 +21,7 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 
 Potential format noodling:
 
-<span style="font-weight: 700; font-size:24">Title</span> (Name of the media)
+**Title** (Name of the media)
 **Type**: Book, Article, Course, Podcast, Application, Web application, Etc., etc.
 **Link**: A direct URL to the item.
 **Thoughts**: Notes about the item.
@@ -28,18 +30,16 @@ Potential format noodling:
 ## General Tools
 
 ### Bash
-<span style="font-weight: 700; font-size:24">Shellcheck</span> 
+**Shellcheck**
 **Type**: Web Application
 **Link**: [https://www.shellcheck.net/](https://www.shellcheck.net/)
 **Thoughts**: A fantastic online (And installable / integratable) Bash shell script linter that gives actionable, in-depth rationale for why something is incorrect or provides guidance on how to do it better.
 
 ### Markdown
-<span style="font-weight: 700; font-size:24">Dillinger</span>
+**Dillinger**
 **Type**: Web Application
 **Link**: [https://dillinger.io/](https://dillinger.io/)
 **Thoughts**: Probably the best online markdown editor out there.  Can integrate with a wide range of services (Including Github!).  Potential downside: No dark mode/theme.
-
-
 
 ### JSON
 
