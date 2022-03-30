@@ -30,9 +30,9 @@ Potential format noodling:
 ## General Tools
 
 ### Bash
-**Shellcheck**
-**Type**: Web Application
-**Link**: [https://www.shellcheck.net/](https://www.shellcheck.net/)
+**Shellcheck**  
+**Type**: Web Application  
+**Link**: [https://www.shellcheck.net/](https://www.shellcheck.net/)  
 **Thoughts**: A fantastic online (And installable / integratable) Bash shell script linter that gives actionable, in-depth rationale for why something is incorrect or provides guidance on how to do it better.
 
 ### Markdown
