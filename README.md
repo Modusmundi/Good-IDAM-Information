@@ -19,7 +19,11 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 * Auditability, Compliance, and Event Management
 
 
-Potential format noodling:
+
+The Format
+***
+
+[//]: # (You absolutely need two spaces after the end of your content to make it line break in Github.  Keep that in mind when building this out.)
 
 **Title** (Name of the media)  
 **Type**: Book, Article, Course, Podcast, Application, Web application, Etc., etc.  
@@ -36,9 +40,9 @@ Potential format noodling:
 **Thoughts**: A fantastic online (And installable / integratable) Bash shell script linter that gives actionable, in-depth rationale for why something is incorrect or provides guidance on how to do it better.
 
 ### Markdown
-**Dillinger**
-**Type**: Web Application
-**Link**: [https://dillinger.io/](https://dillinger.io/)
+**Dillinger**  
+**Type**: Web Application  
+**Link**: [https://dillinger.io/](https://dillinger.io/)  
 **Thoughts**: Probably the best online markdown editor out there.  Can integrate with a wide range of services (Including Github!).  Potential downside: No dark mode/theme.
 
 ### JSON
