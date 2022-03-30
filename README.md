@@ -17,22 +17,49 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 * Auditability, Compliance, and Event Management
 
 
+Potential format noodling:
+
+<span style="font-weight: 700; font-size:24">Title</span> (Name of the media)
+**Type**: Book, Article, Course, Podcast, Application, Web application, Etc., etc.
+**Link**: A direct URL to the item.
+**Thoughts**: Notes about the item.
+
+
+## General Tools
+
+### Bash
+<span style="font-weight: 700; font-size:24">Shellcheck</span> 
+**Type**: Web Application
+**Link**: [https://www.shellcheck.net/](https://www.shellcheck.net/)
+**Thoughts**: A fantastic online (And installable / integratable) Bash shell script linter that gives actionable, in-depth rationale for why something is incorrect or provides guidance on how to do it better.
+
+### Markdown
+<span style="font-weight: 700; font-size:24">Dillinger</span>
+**Type**: Web Application
+**Link**: [https://dillinger.io/](https://dillinger.io/)
+**Thoughts**: Probably the best online markdown editor out there.  Can integrate with a wide range of services (Including Github!).  Potential downside: No dark mode/theme.
+
+
+
+### JSON
+
+
 ## General Security
 
-http://www.blueteamhandbook.com/ - The Blue Team Handbook, a condensed and valuable book on blue-team security concerns.
+[http://www.blueteamhandbook.com/](http://www.blueteamhandbook.com/) - The Blue Team Handbook, a condensed and valuable book on blue-team security concerns.
 
-https://www.oreilly.com/library/view/defensive-security-handbook/9781491960370/ - Defensive Security Handbook, a great high-level book about security from a top-down perspective.
-
-
+[https://www.oreilly.com/library/view/defensive-security-handbook/9781491960370/](https://www.oreilly.com/library/view/defensive-security-handbook/9781491960370/) - Defensive Security Handbook, a great high-level book about security from a top-down perspective.
 
 
-## Foundationals
+
+
+## IDAM Foundationals
 
 ## Directory Services
 
 ### LDAP
 
-https://www.oreilly.com/library/view/understanding-and-deploying/0672323168/ - Called by some the LDAP Bible; it's coming up on 20 years old but still provides a rich set of information on LDAP and considerations around LDAP Directory Servers.
+[https://www.oreilly.com/library/view/understanding-and-deploying/0672323168/](https://www.oreilly.com/library/view/understanding-and-deploying/0672323168/ ) - Called by some the LDAP Bible; it's coming up on 20 years old but still provides a rich set of information on LDAP and considerations around LDAP Directory Servers.
 
 ## Metadirectories
 
@@ -51,13 +78,12 @@ https://www.oreilly.com/library/view/understanding-and-deploying/0672323168/ - C
 ### Passwords
 [https://www.baekdal.com/trends/password-security-usability](https://www.baekdal.com/trends/password-security-usability) - This is **very** outdated as far as time to crack under brute force mechanisms, but is a decent primer. 
 
-https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab11008.pdf - A paper on simulated password brute forcing attempts; the takeaway here is that longer passwords are superior in terms of time to crack, and pushed back against older NIST guidelines at the time.
+[https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab11008.pdf](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab11008.pdf) - A paper on simulated password brute forcing attempts; the takeaway here is that longer passwords are superior in terms of time to crack, and pushed back against older NIST guidelines at the time.
 
-https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver - NIST refers to passwords as "memorized secrets", and has a lot to say on them.  These standards should be considered a minimum for any system that uses password-based authentication.
+[https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver](https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver) - NIST refers to passwords as "memorized secrets", and has a lot to say on them.  These standards should be considered a minimum for any system that uses password-based authentication.
+[https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) - OWASP doing what they do best and offering a no-nonsense discussion on password storage mechanisms.  They raise something critical here, which is that once an attacker has access to password hashes they can and **will** be brute forced offline.
 
-https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html - OWASP doing what they do best and offering a no-nonsense discussion on password storage mechanisms.  They raise something critical here, which is that once an attacker has access to password hashes they can and **will** be brute forced offline.
-
-https://www.netmux.com/blog/hash-crack-v3 - A book on the red-team side of passwords
+[https://www.netmux.com/blog/hash-crack-v3](https://www.netmux.com/blog/hash-crack-v3) - A book on the red-team side of passwords
 
 ## PKI
 
