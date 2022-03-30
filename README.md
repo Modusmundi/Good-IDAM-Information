@@ -21,10 +21,10 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 
 Potential format noodling:
 
-**Title** (Name of the media)
-**Type**: Book, Article, Course, Podcast, Application, Web application, Etc., etc.
-**Link**: A direct URL to the item.
-**Thoughts**: Notes about the item.
+**Title** (Name of the media)  
+**Type**: Book, Article, Course, Podcast, Application, Web application, Etc., etc.  
+**Link**: A direct URL to the item.  
+**Thoughts**: Notes about the item.  
 
 
 ## General Tools
