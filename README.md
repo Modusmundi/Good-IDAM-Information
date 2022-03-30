@@ -18,13 +18,12 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 * Privileged Access Management (PAM)
 * Auditability, Compliance, and Event Management
 
+<br>
 
-
-The Format
-***
+**The Format**  
 
 [//]: # (You absolutely need two spaces after the end of your content to make it line break in Github.  Keep that in mind when building this out.)
-
+***
 **Title** (Name of the media)  
 **Type**: Book, Article, Course, Podcast, Application, Web application, Etc., etc.  
 **Link**: A direct URL to the item.  
