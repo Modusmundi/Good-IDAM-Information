@@ -67,7 +67,7 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 
 ### LDAP
 
-**# Understanding and Deploying LDAP Directory Services, Second Edition**  
+**Understanding and Deploying LDAP Directory Services, Second Edition**  
 **Type**: Book    
 **Link**: [https://www.oreilly.com/library/view/understanding-and-deploying/0672323168/](https://www.oreilly.com/library/view/understanding-and-deploying/0672323168/ )  
 **Thoughts**: Called by some the LDAP Bible; it's coming up on 20 years old but still provides a rich set of information on LDAP and considerations around LDAP Directory Servers.  
@@ -105,7 +105,7 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 **Link**: [https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab11008.pdf](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab11008.pdf)  
 **Thoughts**: A paper on simulated password brute forcing attempts; the takeaway here is that longer passwords are superior in terms of time to crack, and pushed back against older NIST guidelines at the time. 
 
-**# NIST Special Publication 800-63B - Digital Identity Guidelines**  
+**NIST Special Publication 800-63B - Digital Identity Guidelines**  
 **Type**: Government Publication  
 **Link**: [https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver](https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver)  
 **Thoughts**: NIST refers to passwords as "memorized secrets", and has a lot to say on them.  I have elected to link directly to the memorized secrets section of the publication here, since the topic is passwords.  These standards should be considered a minimum for any system that uses password-based authentication.
