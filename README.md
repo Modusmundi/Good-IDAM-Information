@@ -63,6 +63,13 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 
 ## IDAM Foundationals
 
+**Identity Attack Vectors- Implementing an Effective Identity and Access Management Solution**  
+**Type**: Book  
+**Link**: [https://link.springer.com/book/10.1007/978-1-4842-5165-2](https://link.springer.com/book/10.1007/978-1-4842-5165-2)  
+**Thoughts**: A book that covers a great deal of IDAM topics, and does so at a managable level.  It glosses over a lot of topics at the expensive of others (Federation isn't discussed, Authentication gets a few paragraphs, Identity Governance gets tens of pages), which is fair given how expansive IDAM is in terms of processes.
+
+
+
 ## Directory Services
 
 ### LDAP
@@ -82,15 +89,38 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 
 ## Federation
 
-### OAuth 2 / OpenID Connect (OIDC)\
+### OAuth 2 / OpenID Connect (OIDC)
 
 **OAuth 2.0**   
 **Type**: Website  
 **Link**: [https://oauth.net/2/](https://oauth.net/2/)  
 **Thoughts**: OAuth.net is a site maintained by Aaron Parecki.  He jams a lot of good information (Including all of the relevant IETF RFCs) into the site.  He also does a bunch of videos on the topic, if you're into that sort of thing.   
 
+**An Illustrated Guide to OAuth and OpenID Connect**  
+**Type**: Web Article  
+**Link**: [https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)  
+**Thoughts**: David Neal does a great job of explaining OAuth and OIDC.    
+
+**Which OAuth 2.0 Flow Should I Use?**  
+**Type**: Web Article  
+**Link**: [https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use](https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use)  
+**Thoughts**: Auth0 does a great job of giving reasons to use a specific flow over another when constructing OAuth 2.0 flows.  
+
 
 [https://youtu.be/996OiexHze0](https://youtu.be/996OiexHze0) - Need to review this
+
+### SAML 2.0
+
+**The Beer Drinker’s Guide to SAML**  
+**Type**: Web Article  
+**Link**: [https://duo.com/blog/the-beer-drinkers-guide-to-saml](https://duo.com/blog/the-beer-drinkers-guide-to-saml)  
+**Thoughts**: A fantastic introductory article on SAML, what it is, and why it is within an approachable lens of Beer as a Service.  
+
+**Security Assertion Markup Language (SAML) V2.0 Technical Overview  
+**Type**: Standards Document  
+**Link**: [https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)  
+**Thoughts**: SAML, the grand-daddy of federation standards, has a technical document that covers the whole mess.  It's more information than you probably will ever need regarding SAML implementations (Libraries and Applications make it so easy these days!), but it's good to know where to go if you need it.  
+
 
 ## Authentication Processes
 ### Passwords
@@ -127,3 +157,4 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 ## PAM
 
 ## Auditability, Compliance, and Event Management
+
