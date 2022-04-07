@@ -68,7 +68,10 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 **Link**: [https://link.springer.com/book/10.1007/978-1-4842-5165-2](https://link.springer.com/book/10.1007/978-1-4842-5165-2)  
 **Thoughts**: A book that covers a great deal of IDAM topics, and does so at a managable level.  It glosses over a lot of topics at the expensive of others (Federation isn't discussed, Authentication gets a few paragraphs, Identity Governance gets tens of pages), which is fair given how expansive IDAM is in terms of processes.
 
-
+**Solving Identity Management in  Modern Applications**  
+**Type**: Book  
+**Link**: [https://link.springer.com/book/10.1007/978-1-4842-5095-2](https://link.springer.com/book/10.1007/978-1-4842-5095-2)  
+**Thoughts**: An impressive effort that discusses the rammifications of Authentication, Authorization, and Federation within the context of applications.    It does so in a manner that is practical, free of vendor hype, and where possible is standards-driven.
 
 ## Directory Services
 
@@ -116,7 +119,7 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 **Link**: [https://duo.com/blog/the-beer-drinkers-guide-to-saml](https://duo.com/blog/the-beer-drinkers-guide-to-saml)  
 **Thoughts**: A fantastic introductory article on SAML, what it is, and why it is within an approachable lens of Beer as a Service.  
 
-**Security Assertion Markup Language (SAML) V2.0 Technical Overview  
+**Security Assertion Markup Language (SAML) V2.0 Technical Overview**   
 **Type**: Standards Document  
 **Link**: [https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)  
 **Thoughts**: SAML, the grand-daddy of federation standards, has a technical document that covers the whole mess.  It's more information than you probably will ever need regarding SAML implementations (Libraries and Applications make it so easy these days!), but it's good to know where to go if you need it.  
