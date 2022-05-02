@@ -46,6 +46,10 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 **Thoughts**: Probably the best online markdown editor out there.  Can integrate with a wide range of services (Including Github!).  Potential downside: No dark mode/theme.  
 
 ### JSON
+**JSONLint**   
+**Type**: Web Application  
+**Link**: [https://jsonlint.com/](https://jsonlint.com/)  
+**Thoughts**: JSON is great, but JSON can get complex as all get out really quickly and without a way to check whether or not a given JSON blob is sane things would go very poorly.  JSON Linters (Such as JSONLint) are incredibly handy.  
 
 
 ## General Security
@@ -109,6 +113,15 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 **Link**: [https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use](https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use)  
 **Thoughts**: Auth0 does a great job of giving reasons to use a specific flow over another when constructing OAuth 2.0 flows.  
 
+**OAuth 2.0 Vulnerabilities**   
+**Type**: Web Article  
+**Link**: [https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities)  
+**Thoughts**: A rather in-depth go at OAuth 2.0 as well as security issues with the standard.  Also see the OpenID Connect Vulnerabilities link on the site.  
+
+**OAuth 2.0 authentication vulnerabilities**   
+**Type**: Web Article  
+**Link**: [https://portswigger.net/web-security/oauth](https://portswigger.net/web-security/oauth)  
+**Thoughts**: While the vulnerabilities Portswigger (The people behind Burp Suite) bring up aren't all that different between the 0xn3va article, it does offer access to labs to try these things out in the real world.
 
 [https://youtu.be/996OiexHze0](https://youtu.be/996OiexHze0) - Need to review this
 
@@ -123,6 +136,16 @@ The purpose of this document is to capture articles, courses, videos, books, or 
 **Type**: Standards Document  
 **Link**: [https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)  
 **Thoughts**: SAML, the grand-daddy of federation standards, has a technical document that covers the whole mess.  It's more information than you probably will ever need regarding SAML implementations (Libraries and Applications make it so easy these days!), but it's good to know where to go if you need it.  
+
+**Fun with SAML SSO Vulnerabilities and Footguns**   
+**Type**: Article  
+**Link**: [https://workos.com/blog/fun-with-saml-sso-vulnerabilities-and-footguns](https://workos.com/blog/fun-with-saml-sso-vulnerabilities-and-footguns)  
+**Thoughts**: Something that has a tendency to get overlooked between secrutiy standards and security implementation are the details.  SAML is great, but it's complex.  Combined with its reliance on XML (Which as the author puts it is "... hard to form, hard to read, and hard to parse"), it's extremely tricky to nail.
+
+
+https://cheatsheetseries.owasp.org/cheatsheets/SAML_Security_Cheat_Sheet.html
+
+
 
 
 ## Authentication Processes
